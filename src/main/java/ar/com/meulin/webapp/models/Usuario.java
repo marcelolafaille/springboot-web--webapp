@@ -6,6 +6,7 @@ public class Usuario {
     private String apellido;
     private String email;
 
+    // constructores
     public Usuario() {
     }
 
@@ -15,7 +16,7 @@ public class Usuario {
         this.email = email;
     }
 
-
+    // getters y setters
     public String getNombre() {
         return nombre;
     }

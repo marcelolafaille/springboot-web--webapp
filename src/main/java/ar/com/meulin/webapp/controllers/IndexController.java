@@ -12,6 +12,4 @@ public class IndexController {
         model.addAttribute("titulo", "Hola Spring Framework!");
         return "index";
     }
-
-
 }
